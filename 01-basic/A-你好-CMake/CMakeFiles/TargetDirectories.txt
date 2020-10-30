@@ -1,3 +1,0 @@
-G:/cppLearning/Cmake/01-basic/CMakeFiles/hello_cmake.dir
-G:/cppLearning/Cmake/01-basic/CMakeFiles/edit_cache.dir
-G:/cppLearning/Cmake/01-basic/CMakeFiles/rebuild_cache.dir
