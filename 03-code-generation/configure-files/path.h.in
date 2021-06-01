@@ -1,0 +1,4 @@
+#pragma once 
+
+const char* path = "@CMAKE_BINARY_DIR@";
+
